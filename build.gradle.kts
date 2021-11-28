@@ -1,3 +1,5 @@
+@file:Suppress("UNUSED_VARIABLE")
+
 val korimVersion = "2.4.8"
 
 plugins {
